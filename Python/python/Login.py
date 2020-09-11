@@ -6,11 +6,10 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # this is the normal way to get the absolute path till the current folder
 #abs_path = os.path.abspath('.')
-#print(abs_path)
 
 #we need to go 2 level up to reach the parent folder so that we can navigate to the chromedriver folder
 abs_path = os.path.abspath(os.path.join(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")),".."))
-#print(abs_path)
+
 
 #this path is hard coded
 #driver = webdriver.Chrome("C:/Users/Sachin Joshi/PycharmProjects/Selenium/Jar Files & Driver/chromedriver_win32_84.0.4147.30/chromedriver.exe")
