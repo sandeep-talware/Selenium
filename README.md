@@ -78,8 +78,18 @@ Upgrade **[pip](https://pypi.org/project/pip/)** to prevent warnings:
 ```bash
 git clone https://github.com/Selenium/Selenium.git
 cd Selenium/
-pip install .
+pip install selenium
 ```
+
+you can also download pycharm from https://www.jetbrains.com/pycharm/download/ please make sure that you are downloading the community Edition
+
+Version History for all softwares:
+1. Python - 3.8.5
+2. pip - 20.2.3
+3. selenium - 3.141
+
+
+
 
 * You can also install ``Selenium`` from [pypi](https://pypi.python.org/pypi/Selenium).
 ```bash
