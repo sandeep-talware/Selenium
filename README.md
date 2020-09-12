@@ -25,8 +25,10 @@
 </p>
 
 <p>
-    Here is how we started the coding,
-    to read the properties file we must install the jproperties by command: pip install jproperties
+    <b>Comment starts </b><br/>
+    To read the properties file we must install the jproperties use command: <b>pip install jproperties</b><br/>
+    We will be using pandas library to read the csv data to install the pandas library use command: <b>pip install pandas</b></br>
+    <b>Comment ends</b><br/>
 </p>
 <p>
 <b>Selenium</b> is an all-in-one framework for fast & simple browser automation, end-to-end testing, presentations, charts, and website tours.
