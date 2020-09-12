@@ -25,6 +25,10 @@
 </p>
 
 <p>
+    Here is how we started the coding,
+    to read the properties file we must install the jproperties by command: pip install jproperties
+</p>
+<p>
 <b>Selenium</b> is an all-in-one framework for fast & simple browser automation, end-to-end testing, presentations, charts, and website tours.
 Tests are run with <b>pytest</b>. Browsers are controlled by <b>WebDriver</b>.
 </p>
