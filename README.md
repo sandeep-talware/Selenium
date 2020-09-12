@@ -20,10 +20,14 @@
 <img src="https://img.shields.io/pypi/v/Selenium.svg?color=22AAEE" alt="Latest Release on PyPI" /></a> <a href="https://Selenium.io">
 <img src="https://img.shields.io/badge/docs-%20Selenium.io-11BBDD.svg" alt="Selenium.io Docs" /></a> <a href="https://travis-ci.org/Selenium/Selenium">
 <img src="https://img.shields.io/travis/Selenium/Selenium/master.svg" alt="Selenium on TravisCI" /></a> <a href="https://github.com/Selenium/Selenium/actions">
-<img src="https://github.com/Selenium/Selenium/workflows/CI%20build/badge.svg" alt="Selenium GitHub Actions" /></a> <a href="https://gitter.im/Selenium/Selenium">
+<img src="https://github.com/Selenium/Selenium/workflows/CI%20build/badge.svg" alt="Selenium GitHub Actions" /></a> <a href="https://selenium-automationco.slack.com/">
 <img src="https://badges.gitter.im/Selenium/Selenium.svg" alt="Selenium" /></a>
 </p>
 
+<p>
+    Here is how we started the coding,
+    to read the properties file we must install the jproperties by command: pip install jproperties
+</p>
 <p>
 <b>Selenium</b> is an all-in-one framework for fast & simple browser automation, end-to-end testing, presentations, charts, and website tours.
 Tests are run with <b>pytest</b>. Browsers are controlled by <b>WebDriver</b>.
