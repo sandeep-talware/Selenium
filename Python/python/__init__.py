@@ -8,6 +8,7 @@ def _readproperties(filepath):
     with open(filepath,'rb') as config_file:
         configs.load(config_file)
     items_pro = configs.items()
+    # This will create empty dictionary object
     prop_dict = {}
     for item in items_pro:
         prop_dict[item[0]]=item[1].data
