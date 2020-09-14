@@ -39,8 +39,8 @@ jobs:
         sudo apt-get install firefox
     - name: Install chromedriver and geckodriver (Firefox Webdriver)
       run: |
-        seleniumbase install chromedriver
-        seleniumbase install geckodriver
+        selenium install chromedriver
+        selenium install geckodriver
     - name: Run login.py --browser=chrome --headless
       run: |
         pytest Python/python/login.py --browser=chrome --headless -v -s --junit-xml=junit/test-results.xml
